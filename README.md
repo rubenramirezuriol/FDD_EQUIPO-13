@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imagenes/WhatsApp Image 2026-08-20 at 11.14.35 AM.jpeg" width="90"/> | Ruben Moises Enmanuel Ramirez Uriol | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imagenes/aldair.jpeg" width="90"/> | **Aldair Alexander Chavez Aliaga** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imagenes/foto3.jpeg" width="90"/> | **Angeli** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imagenes/WhatsApp Image 2026-08-20 at 11.55.54 AM.jpeg" width="90"/> | Will Alex Puma CUtipa | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imagenes/integrante 05.jpeg" width="90"/> | YESSICA ALVAREZ HANAMPA | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
