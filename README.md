@@ -8,18 +8,18 @@
 Somos el **Equipo 13** del curso **Fundamentos de Diseño**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
+Tema: "Gestion inteligente de residuos"
+
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+- ODS 9 — Industria, innovación e infraestructura
+- ODS 11 — Ciudades sostenibles
+- ODS 12 — Producción y consumo responsables
 
 ---
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="/Recursos/Imagenes/WhatsApp Image 2026-08-20 at 11.53.02 AM.jpeg" />
   <em>Figura 1. Fotografía del equipo 13</em>
 </p>
 
