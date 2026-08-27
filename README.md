@@ -9,15 +9,18 @@ Somos el **Equipo 13** del curso **Fundamentos de Diseño**, conformado por estu
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 6: Agua Limpia y Saneamiento (Principal)
+- ODS 6: Agua Limpia y Saneamiento (Principal).  
   Busca garantizar la disponibilidad, la gestion sostenible y el saneamiento del agua para todos.
   Meta 6.4. Aumentar considerablemente el uso eficiente de los recursos hidricos en todos los sectores y asegurar la extraccion y el abastecimiento de agua dulce para hacer frente a la escasez de agua.
-- ODS 12: Produccion y consumo responsable
+- ODS 12: Produccion y consumo responsable.  
   Apunta a optimizar los insumos utilizados en la produccion de alimentos, promoviendo una gestion eficiente de los recursos naturales.
   Meta 12.2. Lograr la ordenacion sostenible y el uso eficiente de los recursos naturales.
-- ODS 13: Acción por el Clima
+- ODS 13: Acción por el Clima.  
   Promueve la adopcion de medidas urgentes para combatir el cambio climatico y sus efectos.
   Meta 13.1. Fortalecer la resiliencia y la capacidad de adaptacion a los riesgos relacionados con el clima y desastres naturales en todos los paises.
+
+Problematica:
+- La agricultura tradicional suele regar por calendario o inundacion, malgastando volumenes masivos de agua y erosionando los suelos. Esta ineficiencia desencadena una problematica directa con la sostenibilidad global. Agota prematuramente las fuentes de agua local y agrava la escasez del recurso en las comunidades, rompe los principios de produccion responsable al generar un consumo desmedido de insumos y energia de bombeo, y deja al agricultor desprotegido sin capacidad de adaptacion ante las sequias o lluvias irregulares intensificadas por el cambio climatico.
 
 ---
 
