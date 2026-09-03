@@ -2,7 +2,7 @@
     UNIVERSIDAD PERUANA CAYETANO HEREDIA
     <br><br>
     Facultad de Ciencias e Ingeniería<br>
-    <img src="/logo.jpeg" width="90"/>
+    <img src="logo.jpeg" width="90"/>
     <br><br>
     FUNDAMENTOS DE DISEÑO
     <br><br>
@@ -260,7 +260,7 @@ REFERENCIA BIBLIOGRÁFICA:
 | Aporte | **Telemetría y Adquisición Hiperlocal:** La estación Strato 1 integra de forma compacta sensores de alta precisión para medir temperatura, humedad, viento y precipitaciones en tiempo real, transmitiendo vía celular. Esto demuestra la viabilidad técnica de consolidar múltiples variables meteorológicas en un solo nodo de campo de bajo consumo para alimentar modelos en la nube. **Integración con Modelos Agronómicos:** Los datos recolectados por el dispositivo alimentan directamente los algoritmos adaptativos de riego y prevención de enfermedades de CropX. Esto sirve como referencia para justificar que las lecturas ambientales de su prototipo no solo muestren datos aislados, sino que reajusten automáticamente las constantes del algoritmo de riego según la evapotranspiración y la variabilidad climática local. |
 | Variables | Temperatura del aire, humedad relativa, velocidad del viento, dirección del viento, precipitación/lluvia y radiación solar.  |
 | Detalles técnicos | Rango/Precisión Temp.: \-40° a 185°F (±0.36°F). Rango/Precisión Humedad: 0% a 100% (±1.8%). Velocidad Viento: 0.5 a 45 m/s (±0.1 m/s). Pluviómetro: 0.2 mm por balancín (precisión ±2%). Conectividad: Dispositivo de telemetría CropX con conexión celular. Alimentación: Batería recargable/reemplazable de Li-Ion con panel solar integrado. Intervalos: Medición cada 5-15 min; envío cada 15-60 min (configurables). |
-| Imagen referencial del producto | <img src="/producto1.jpeg" width="90"/> ***Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).*  |
+| Imagen referencial del producto | <img src="producto1.jpeg" width="90"/> ***Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).*  |
 | Referencia bibliográfica | CropX Inc. Estación meteorológica todo en uno: Strato 1 \[Ficha técnica en línea\]. Tel Aviv: CropX; 2024 \[citado el 3 de septiembre de 2026\].  Disponible en: [https://cropx.com/cropx-system/hardware/](https://cropx.com/cropx-system/hardware/)  |
 
 |  | Producto 2 Florapulse |
@@ -270,7 +270,7 @@ REFERENCIA BIBLIOGRÁFICA:
 | Aporte | Sirve como referente para desarrollar un sistema de riego inteligente basado en el estado fisiológico de la planta. Permite detectar estrés hídrico y utilizar esta información como criterio para optimizar la frecuencia y cantidad de riego, integrando sensado, procesamiento de datos y automatización.  |
 | Variables/ rango/  | **Variable:** potencial hídrico del tallo (SWP).  **Rango:** 0 a −35 bar (0 a −3,5 MPa).  **Resolución:** 0,1 bar.  **Precisión:** ±5 %.  **Medición:** cada 20 min.  **Temperatura:** 5–50 °C.  |
 | Detalles técnicos | Microtensiómetro con membrana de silicio nanoporoso, instalación directa en el tejido vegetal, alimentación mediante panel solar y batería de litio y transmisión inalámbrica de datos mediante conexión celular.  |
-| Imagen referencial del producto | <img src="/producto2.jpeg" width="90"/> ***Figura 2**. Microtensiómetro FloraPulse instalado en el tronco para monitoreo continuo del potencial hídrico. **Fuente:** FloraPulse (2026).*  |
+| Imagen referencial del producto | <img src="producto2.jpeg" width="90"/> ***Figura 2**. Microtensiómetro FloraPulse instalado en el tronco para monitoreo continuo del potencial hídrico. **Fuente:** FloraPulse (2026).*  |
 | Referencia bibliografica | FloraPulse. How FloraPulse works: microtensiometer technology explained \[Internet\]. FloraPulse; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sensores de riego de origen vegetal para huertos y viñedos \- FloraPulse](https://florapulse.com/)  |
 
 |  | Producto 3 CropX |
@@ -280,5 +280,5 @@ REFERENCIA BIBLIOGRÁFICA:
 | Aporte | Permite establecer un sistema de monitoreo de las condiciones del suelo que puede utilizarse como entrada para la gestión automatizada del riego. Los datos de humedad en la zona radicular permiten determinar cuándo el suelo requiere reposición de agua, mientras que la temperatura y conductividad eléctrica aportan información complementaria sobre las condiciones del cultivo. Esto sirve como referencia para integrar sensores, telemetría y toma de decisiones basada en datos.  |
 | Variables/ Rangos/ valores | **Humedad (VWC):** 0–60 %, precisión ±0,5 %.  **Temperatura:** −10 a 70 °C, precisión hasta ±0,5 °C.  **Conductividad eléctrica (EC):** 0–5 dS/m.  **Profundidad:** mediciones configurables en diferentes niveles del perfil del suelo.  |
 | Detalles técnicos | Sensor de suelo con diseño espiral patentado, sensores integrados para humedad, temperatura y EC, autocalibración, batería extraíble y recargable, antena desmontable y telemetría integrada. El diseño permite realizar mediciones a diferentes profundidades y transmitir los datos a la plataforma CropX.  |
-| Imagen referencial del producto | <img src="/producto3.jpeg" width="90"/> **Figura 3\.** Sensor de suelo CropX Vertex para monitoreo de las condiciones de la zona radicular. **Fuente:** CropX Technologies (2026).  |
+| Imagen referencial del producto | <img src="producto3.jpeg" width="90"/> **Figura 3\.** Sensor de suelo CropX Vertex para monitoreo de las condiciones de la zona radicular. **Fuente:** CropX Technologies (2026).  |
 | Referencia bibliográfica | CropX Technologies. CropX Hardware: soil sensor and telemetry \[Internet\]. CropX; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sistema de Gestión Agronómica de Granjas CropX](https://cropx.com/)  |
