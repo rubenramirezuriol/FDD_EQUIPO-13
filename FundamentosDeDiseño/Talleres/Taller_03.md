@@ -59,10 +59,10 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 
 </div>
 
-***REFERENCIAS BIBLIOGRÁFICAS***
-
-## 1. ARTÍCULOS CIENTÍFICOS.  
-     
+ REFERENCIAS BIBLIOGRÁFICAS
+---
+ ***1. ARTÍCULOS CIENTÍFICOS***
+---
 1. AquaCrop-IoT: plataforma inteligente de riego mediante información del cultivo y condiciones meteorológicas
 
 | RECURSO | TEMA  | APORTE | VARIABLE/CARACTERÍSTICAS | VALORES /RANGOS |
@@ -87,7 +87,7 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 
 
 ## 2. **PATENTES RELACIONADAS CON EL PROYECTO**
-
+---
 | Patente 1 |  |
 | :---- | :---- |
 | CAMPO | INFORMACIÓN |
@@ -126,15 +126,15 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 
 
 ## 3. **TESIS**
-
+---
 |  | Nombre | Tema | Aporte | Variables |
 | :---- | :---- | :---- | :---- | :---- |
 | 1 | Aplicación de riego deficitario de secado parcial de la zona de raíces en el cultivo de durazno mediante el riego por goteo | Implementación de una técnica de riego para disminuir los aportes hídricos con respecto a las necesidades de riego del cultivo del durazno. | El efecto de la aplicación del Riego Deficitario de Secado Parcial en la Zona de Raíces (SPZR) mediante el rendimiento de la producción y se determinó el volumen de agua utilizado en los cultivos. | Se aplicaron dos tratamientos de riego en 28 árboles o unidades experimentales de las variedades Canario y Florida 39\. 1\. Riego Deficitario de Secado Parcial en la Zona de Raíces (SPZR). 2\. El tratamiento de riego control.[(7)](https://www.zotero.org/google-docs/?jmaken) |
 | 2 | Sistema de riego automatizado para solanum lycopersicum con IoT y modelos predictivos para el ahorro de agua en entornos urbanos | Optimización del uso del agua en la agricultura urbana de Lima Metropolitana. | Se desarrolla un sistema automatizado para la irrigación inteligente de cultivos de tomate (Solanum lycopersicum var. cerasiforme) basado en el Internet de las Cosas (IoT) y algoritmos de predicción. | Se emplean sensores para la medición de la humedad del suelo y la temperatura del ambiente. Los valores utilizados son; hora, humedad, temperatura, agua perdida, agua a regar.[(8)](https://www.zotero.org/google-docs/?zEPLgX) |
 | 3 | Diseño de un sistema de Iot para optimizar el riego de la agricultura en el distrito de Viñas | Diseñar un sistema de Internet de las Cosas para optimizar la gestión de riego en la agricultura del Anexo de Viñas 2024, donde se enfrenta una problemática significativa de escasez de agua y prácticas de riego ineficientes. | Se desarrolló un prototipo de sistema basado en un microcontrolador ESP32 que integra sensores de flujo, sensores ultrasónicos, válvulas solenoides y conectividad Wi-Fi, controlados mediante una plataforma web. | Incluye el despliegue de una red de sensores y actuadores conectados a Internet que recolectan datos del entorno agrícola y los envían a una plataforma centralizada para su análisis y toma de decisiones. Las dimensiones que se emplearon fueron; precisión del agua entregada (volumen), tiempo de respuesta (segundos).[(9)](https://www.zotero.org/google-docs/?GGonjK) |
 
-## 4. **APLICACIONES COMERCIALES.**
-
+## 4. **APLICACIONES COMERCIALES**
+---
 |  | Producto 1 |
 | :---- | :---- |
 | Nombre | *Strato (CropX)*  |
@@ -142,8 +142,8 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | Aporte | **Telemetría y Adquisición Hiperlocal:** La estación Strato 1 integra de forma compacta sensores de alta precisión para medir temperatura, humedad, viento y precipitaciones en tiempo real, transmitiendo vía celular. Esto demuestra la viabilidad técnica de consolidar múltiples variables meteorológicas en un solo nodo de campo de bajo consumo para alimentar modelos en la nube. **Integración con Modelos Agronómicos:** Los datos recolectados por el dispositivo alimentan directamente los algoritmos adaptativos de riego y prevención de enfermedades de CropX. Esto sirve como referencia para justificar que las lecturas ambientales de su prototipo no solo muestren datos aislados, sino que reajusten automáticamente las constantes del algoritmo de riego según la evapotranspiración y la variabilidad climática local. |
 | Variables | Temperatura del aire, humedad relativa, velocidad del viento, dirección del viento, precipitación/lluvia y radiación solar.  |
 | Detalles técnicos | Rango/Precisión Temp.: \-40° a 185°F (±0.36°F). Rango/Precisión Humedad: 0% a 100% (±1.8%). Velocidad Viento: 0.5 a 45 m/s (±0.1 m/s). Pluviómetro: 0.2 mm por balancín (precisión ±2%). Conectividad: Dispositivo de telemetría CropX con conexión celular. Alimentación: Batería recargable/reemplazable de Li-Ion con panel solar integrado. Intervalos: Medición cada 5-15 min; envío cada 15-60 min (configurables). |
-| Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/cropx1.png" alt="Patente 2" width="320"></div>  <br>**Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).*  |
-| Referencia bibliográfica | CropX Inc. Estación meteorológica todo en uno: Strato 1 \[Ficha técnica en línea\]. Tel Aviv: CropX; 2024 \[citado el 3 de septiembre de 2026\]. [(10)](https://www.zotero.org/google-docs/?QzJarc) Disponible en: [https://cropx.com/cropx-system/hardware/](https://cropx.com/cropx-system/hardware/)  |
+| Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/cropx1.png" alt="Patente 2" width="320"></div>  <br>**Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).* [(10)](https://www.zotero.org/google-docs/?QzJarc)   |
+
 
 |  | Producto 2 | 
 | :---- | :---- |
@@ -153,7 +153,7 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | Variables/ rango/  | **Variable:** potencial hídrico del tallo (SWP).  **Rango:** 0 a −35 bar (0 a −3,5 MPa).  **Resolución:** 0,1 bar.  **Precisión:** ±5 %.  **Medición:** cada 20 min.  **Temperatura:** 5–50 °C.  |
 | Detalles técnicos | Microtensiómetro con membrana de silicio nanoporoso, instalación directa en el tejido vegetal, alimentación mediante panel solar y batería de litio y transmisión inalámbrica de datos mediante conexión celular.  |
 | Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/floraSense1.png" alt="Patente 2" width="320"></div><br>  ***Figura 2**. Microtensiómetro FloraPulse instalado en el tronco para monitoreo continuo del potencial hídrico. **Fuente:** FloraPulse (2026). [(11)](https://www.zotero.org/google-docs/?nctISj)* |
-| Referencia bibliografica | FloraPulse. How FloraPulse works: microtensiometer technology explained \[Internet\]. FloraPulse; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sensores de riego de origen vegetal para huertos y viñedos \- FloraPulse](https://florapulse.com/)  |
+
 
 |  | Producto 3 CropX |
 | :---- | :---- |
@@ -163,12 +163,11 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | Variables/ Rangos/ valores | **Humedad (VWC):** 0–60 %, precisión ±0,5 %.  **Temperatura:** −10 a 70 °C, precisión hasta ±0,5 °C.  **Conductividad eléctrica (EC):** 0–5 dS/m.  **Profundidad:** mediciones configurables en diferentes niveles del perfil del suelo.  |
 | Detalles técnicos | Sensor de suelo con diseño espiral patentado, sensores integrados para humedad, temperatura y EC, autocalibración, batería extraíble y recargable, antena desmontable y telemetría integrada. El diseño permite realizar mediciones a diferentes profundidades y transmitir los datos a la plataforma CropX.  |
 | Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/cropx2.png" alt="Patente 2" width="350"><br></div>  **Figura 3\.** Sensor de suelo CropX Vertex para monitoreo de las condiciones de la zona radicular. **Fuente:** CropX Technologies (2026). [(12)](https://www.zotero.org/google-docs/?3pg4q1) |
-| Número de  Referencia. | CropX Technologies. CropX Hardware: soil sensor and telemetry \[Internet\]. CropX; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sistema de Gestión Agronómica de Granjas CropX](https://cropx.com/)  |
 
  
 
-## **REFERENCIAS BIBLIOGRÁFICAS:** 
-
+ **REFERENCIAS BIBLIOGRÁFICAS:** 
+---
 [1\.](https://www.zotero.org/google-docs/?nUIc5F)	[Puig F, Garcia-Vila M, Soriano MA, Rodríguez-Díaz JA. AquaCrop-IoT: A smart irrigation platform integrating real-time images and weather forecasting. Comput Electron Agric. 1 de agosto de 2025;235:110372. doi:10.1016/j.compag.2025.110372](https://www.zotero.org/google-docs/?nUIc5F) 
 
 [2\.](https://www.zotero.org/google-docs/?nUIc5F)	[Custódio G, Prati RC. Comparing modern and traditional modeling methods for predicting soil moisture in IoT-based irrigation systems. Smart Agric Technol. 1 de marzo de 2024;7:100397. doi:10.1016/j.atech.2024.100397](https://www.zotero.org/google-docs/?nUIc5F) 
