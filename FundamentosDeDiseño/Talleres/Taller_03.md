@@ -1,34 +1,67 @@
-# UNIVERSIDAD PERUANA CAYETANO HEREDIA
-
-## Facultad de Ciencias e Ingeniería
-
-<p align="center">
-  <img src="../Recursos/Imágenes/logo-upch.jpg" alt="Logo UPCH" width="250">
-</p>
-
-# FUNDAMENTOS DE DISEÑO
-
-## TALLER 03
+<div align="center">
 
 
-REFERENCIAS BIBLIOGRÁFICAS  
-PROFESORES:  
-*Marco Antonio Mugaburu Celi*  
-*Jose Luiz Da Silva*  
-*Jhomer Rodrigo Contreras Paucca*
+<strong>UNIVERSIDAD PERUANA CAYETANO HEREDIA</strong>
 
-PRESENTADO POR:  
-RAMIREZ URIOL RUBEN MOISES ENMANUEL  
-PUMA CUTIPA WILL ALEX  
-CHAVEZ ALIAGA ALDAIR ALEXANDER  
-ALVAREZ HANAMPA YESSICA  
+
+Facultad de Ciencias e Ingeniería
+
+<br>
+
+<img src="../../Recursos/Imagenes/logo-upch.jpg"
+     alt="Logo UPCH"
+     width="150">
+
+<br><br>
+FUNDAMENTOS DE DISEÑO
+
+TALLER 03
+<br><br>
+REFERENCIAS BIBLIOGRÁFICAS
+
+<br>
+
+PROFESORES:
+
+<br>
+
+<em>Marco Antonio Mugaburu Celi</em>
+
+<em>Jose Luiz Da Silva</em>
+
+<em>Jhomer Rodrigo Contreras Paucca</em>
+<br><br><br>
+
+PRESENTADO POR:
+
+RAMIREZ URIOL RUBEN MOISES ENMANUEL
+
+
+
+PUMA CUTIPA WILL ALEX
+
+
+
+CHAVEZ ALIAGA ALDAIR ALEXANDER
+
+
+
+ALVAREZ HANAMPA YESSICA
+
+
+
 SÁNCHEZ MORÓN ANGELI DARIANA
 
+<br><br><br><br>
 2026
+
+<br><br>
+
+</div>
 
 ***REFERENCIAS BIBLIOGRÁFICAS***
 
-1. ARTÍCULOS CIENTÍFICOS.  
+## 1. ARTÍCULOS CIENTÍFICOS.  
      
 1. AquaCrop-IoT: plataforma inteligente de riego mediante información del cultivo y condiciones meteorológicas
 
@@ -42,7 +75,7 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | :---- | :---- | :---- | :---- | :---- |
 | Custódio y Prati (2024)   | Predicción de humedad del suelo mediante IoT y modelos de Machine Learning/series temporales.  | Compara modelos tradicionales y modernos para predecir humedad del suelo. ARIMA obtuvo el mejor resultado en 8 de 10 datasets y los métodos univariados superaron a los avanzados en la mayoría de casos.  | Humedad del suelo, temperatura del suelo, conductividad eléctrica, precipitación, temperatura del aire; modelos ARIMA, Random Forest, XGBoost y StemGNN.  | Datos: 2 años. Profundidades: 0.3, 0.6 y 0.9 m en el dataset principal; otros conjuntos incluyen 0–5, 6–15, 16–30, 31–50 y 51–100 cm. ARIMA: mejor en 8/10 datasets. Ejemplos de MAPE ARIMA: 0.046–0.052 [(2)](https://www.zotero.org/google-docs/?VkoOFp).  |
 
-   3**.- Agricultura inteligente mediante IoT para automatización del riego y      eficiencia hídrica y energética**
+3.- **Agricultura inteligente mediante IoT para automatización del riego y      eficiencia hídrica y energética**
 
 | RECURSO | TEMA  | APORTE | VARIABLE/CARACTERÍSTICAS | VALORES /RANGOS |
 | :---- | :---- | :---- | :---- | :---- |
@@ -53,7 +86,7 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 
 
 
-2. **PATENTES RELACIONADAS CON EL PROYECTO**
+## 2. **PATENTES RELACIONADAS CON EL PROYECTO**
 
 | Patente 1 |  |
 | :---- | :---- |
@@ -65,19 +98,20 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | RESUMEN | La patente propone un sistema para controlar el uso del agua en invernaderos mediante varios módulos que monitorean el consumo de agua, la calidad del agua, la distribución del recurso y el funcionamiento de los equipos. Además, utiliza datos históricos y actuales del cultivo y del ambiente para predecir la cantidad de agua necesaria para el riego y ajustar automáticamente el suministro.  |
 | APORTES AL PROYECTO | Nos aporta una referencia para desarrollar un sistema de riego más eficiente, porque considera la medición del consumo de agua por zonas, el tipo de cultivo, las condiciones ambientales y el uso de datos históricos para decidir cuánto regar. También permite generar alertas cuando existe falta o exceso de agua, ayudando a reducir desperdicios y mejorar la gestión del recurso hídrico. |
 | VARIABLE Y RANGOS/VALORES | Entre las principales variables están la cantidad de agua de riego, temperatura ambiental, precipitación, humedad del suelo, tipo de cultivo, etapa de crecimiento, pH, oxígeno disuelto y conductividad eléctrica. La patente no establece muchos rangos numéricos específicos; principalmente utiliza umbrales previamente definidos para clasificar el consumo de agua como **insuficiente, adecuado o excesivo**, y la calidad del agua como **buena o anormal**. También clasifica las etapas del cultivo en germinación, plántula, crecimiento vegetativo, crecimiento reproductivo y maduración. [(4)](https://www.zotero.org/google-docs/?GepsxK) |
-| REFERENCIAS |  |
 
-| Patente 2 |  |  |
-| :---- | :---- | :---- |
-| CAMPO | INFORMACIÓN |  |
-| TÍTULO | METHODS AND SYSTEMS FOR IRRIGATION GUIDANCE | ![][image2] |
-| N° PUBLICACIÓN | EP3648574B1 |  |
-| CIP | A01G25/16  |  |
-| TEMA DE LA PATENTE | Sistema de riego de precisión para determinar el momento óptimo de riego y la cantidad de agua que necesita un cultivo.  |  |
-| RESUMEN | La patente propone un método para gestionar el riego agrícola utilizando información sobre el potencial hídrico de la planta, la evapotranspiración, el coeficiente del cultivo, el estrés hídrico y datos meteorológicos. Esta información puede obtenerse mediante sensores en campo o teledetección, como imágenes satelitales o drones. Con estos datos, el sistema calcula cuándo debe realizarse el siguiente riego y cuánta agua debe aplicarse.  |  |
-| APORTES AL PROYECTO | Nos aporta una forma más precisa de decidir el riego, ya que no se basa únicamente en horarios fijos, sino en las necesidades reales del cultivo y en las condiciones ambientales. Esto puede ayudarnos a reducir el desperdicio de agua y mejorar la eficiencia hídrica, especialmente porque nuestro proyecto busca considerar factores climáticos y del cultivo antes de regar.  |  |
-| VARIABLES Y RANGOS/VALORES | Las principales variables son la evapotranspiración de referencia ET0ET\_0, el coeficiente del cultivo KcK\_c, el coeficiente de estrés hídrico KsK\_s, la evapotranspiración real ETaET\_a, el potencial hídrico de la planta, temperatura, humedad, viento, radiación y el momento del último riego. Como variables de salida se obtienen el **momento óptimo de riego** toptt\_{opt} y la **cantidad prevista de agua** FIAFIA. La patente indica que KcK\_c puede variar aproximadamente desde valores cercanos a **0 hasta 1.6**, mientras que Ks=1K\_s=1 representa ausencia de estrés hídrico y disminuye conforme aumenta el estrés. También señala que el índice NDVI varía entre **−1 y 1**. [(5)](https://www.zotero.org/google-docs/?FHpfC6) |  |
-| REFERENCIA |  |  |
+| Patente 2 |  |
+| :---- | :---- |
+| CAMPO | INFORMACIÓN |
+| TÍTULO | METHODS AND SYSTEMS FOR IRRIGATION GUIDANCE |
+| N° PUBLICACIÓN | EP3648574B1 |
+| CIP | A01G25/16 |
+| TEMA DE LA PATENTE | Sistema de riego de precisión para determinar el momento óptimo de riego y la cantidad de agua que necesita un cultivo. |
+| RESUMEN | La patente propone un método para gestionar el riego agrícola utilizando información sobre el potencial hídrico de la planta, la evapotranspiración, el coeficiente del cultivo, el estrés hídrico y datos meteorológicos. |
+| APORTES AL PROYECTO | Nos aporta una forma más precisa de decidir el riego, ya que no se basa únicamente en horarios fijos, sino en las necesidades reales del cultivo y en las condiciones ambientales. |
+| VARIABLES Y RANGOS/VALORES | Las principales variables son la evapotranspiración de referencia ET0, el coeficiente del cultivo Kc, el coeficiente de estrés hídrico Ks, la evapotranspiración real ETa, temperatura, humedad, viento y radiación. |
+| IMAGEN REFERENCIAL DE LA PATENTE | <div align="center"><img src="../../Recursos/Imagenes/patente2.png" alt="Patente 2" width="240"></div><br><em>Figura. Sistema de riego de precisión descrito en la patente EP3648574B1.</em> |
+
+
 
 | Patente 3 |  |
 | :---- | :---- |
@@ -89,9 +123,9 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | RESUMEN | La patente propone un sistema que integra datos meteorológicos, teledetección, información del tipo y etapa del cultivo y modelos de corrección de pronósticos para calcular diariamente la cantidad de agua que necesita cada parcela. A partir de la evapotranspiración del cultivo y la precipitación efectiva obtiene la necesidad neta de riego. |
 | APORTES AL PROYECTO | Nos aporta un método para determinar la cantidad necesaria de agua considerando condiciones meteorológicas y características del cultivo, lo cual permite evitar riegos innecesarios y mejorar la eficiencia en el uso del agua. Además, muestra que se pueden utilizar datos meteorológicos y sensores o teledetección para apoyar la toma de decisiones.  |
 | VARIABLES Y RANGOS/VALORES | ET0​ evapotranspiración de referencia, ETcET\_c evapotranspiración del cultivo, precipitación PP, precipitación efectiva PeP\_e, coeficiente de cultivo KcK\_c, radiación neta RnR\_n, temperatura, humedad, velocidad del viento y necesidad neta de riego NIRNIR. La patente menciona, por ejemplo, P≥10 mmP\\geq10\\,mm, 0\<P\<10 mm0\<P\<10\\,mm, coeficiente de aprovechamiento de lluvia entre **0.7 y 0.85**, y ejemplos de Kc=1.1K\_c=1.1 para trigo, 0.40.4 para maíz y 0.80.8 para arroz en determinadas etapas.[(6)](https://www.zotero.org/google-docs/?ez02Ax) |
-| REFERENCIA |  |
 
-3. **TESIS**
+
+## 3. **TESIS**
 
 |  | Nombre | Tema | Aporte | Variables |
 | :---- | :---- | :---- | :---- | :---- |
@@ -99,7 +133,7 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | 2 | Sistema de riego automatizado para solanum lycopersicum con IoT y modelos predictivos para el ahorro de agua en entornos urbanos | Optimización del uso del agua en la agricultura urbana de Lima Metropolitana. | Se desarrolla un sistema automatizado para la irrigación inteligente de cultivos de tomate (Solanum lycopersicum var. cerasiforme) basado en el Internet de las Cosas (IoT) y algoritmos de predicción. | Se emplean sensores para la medición de la humedad del suelo y la temperatura del ambiente. Los valores utilizados son; hora, humedad, temperatura, agua perdida, agua a regar.[(8)](https://www.zotero.org/google-docs/?zEPLgX) |
 | 3 | Diseño de un sistema de Iot para optimizar el riego de la agricultura en el distrito de Viñas | Diseñar un sistema de Internet de las Cosas para optimizar la gestión de riego en la agricultura del Anexo de Viñas 2024, donde se enfrenta una problemática significativa de escasez de agua y prácticas de riego ineficientes. | Se desarrolló un prototipo de sistema basado en un microcontrolador ESP32 que integra sensores de flujo, sensores ultrasónicos, válvulas solenoides y conectividad Wi-Fi, controlados mediante una plataforma web. | Incluye el despliegue de una red de sensores y actuadores conectados a Internet que recolectan datos del entorno agrícola y los envían a una plataforma centralizada para su análisis y toma de decisiones. Las dimensiones que se emplearon fueron; precisión del agua entregada (volumen), tiempo de respuesta (segundos).[(9)](https://www.zotero.org/google-docs/?GGonjK) |
 
-4. **APLICACIONES COMERCIALES.**
+## 4. **APLICACIONES COMERCIALES.**
 
 |  | Producto 1 |
 | :---- | :---- |
@@ -108,17 +142,17 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | Aporte | **Telemetría y Adquisición Hiperlocal:** La estación Strato 1 integra de forma compacta sensores de alta precisión para medir temperatura, humedad, viento y precipitaciones en tiempo real, transmitiendo vía celular. Esto demuestra la viabilidad técnica de consolidar múltiples variables meteorológicas en un solo nodo de campo de bajo consumo para alimentar modelos en la nube. **Integración con Modelos Agronómicos:** Los datos recolectados por el dispositivo alimentan directamente los algoritmos adaptativos de riego y prevención de enfermedades de CropX. Esto sirve como referencia para justificar que las lecturas ambientales de su prototipo no solo muestren datos aislados, sino que reajusten automáticamente las constantes del algoritmo de riego según la evapotranspiración y la variabilidad climática local. |
 | Variables | Temperatura del aire, humedad relativa, velocidad del viento, dirección del viento, precipitación/lluvia y radiación solar.  |
 | Detalles técnicos | Rango/Precisión Temp.: \-40° a 185°F (±0.36°F). Rango/Precisión Humedad: 0% a 100% (±1.8%). Velocidad Viento: 0.5 a 45 m/s (±0.1 m/s). Pluviómetro: 0.2 mm por balancín (precisión ±2%). Conectividad: Dispositivo de telemetría CropX con conexión celular. Alimentación: Batería recargable/reemplazable de Li-Ion con panel solar integrado. Intervalos: Medición cada 5-15 min; envío cada 15-60 min (configurables). |
-| Imagen referencial del producto | ![][image3] ***Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).*  |
+| Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/cropx1.png" alt="Patente 2" width="320"></div>  <br>**Figura 1\.** Sensor Strato de CropX para el monitoreo de las condiciones del suelo. **Fuente:** CropX Technologies (2026).*  |
 | Referencia bibliográfica | CropX Inc. Estación meteorológica todo en uno: Strato 1 \[Ficha técnica en línea\]. Tel Aviv: CropX; 2024 \[citado el 3 de septiembre de 2026\]. [(10)](https://www.zotero.org/google-docs/?QzJarc) Disponible en: [https://cropx.com/cropx-system/hardware/](https://cropx.com/cropx-system/hardware/)  |
 
-|  | Producto 2 Florapulse |
+|  | Producto 2 | 
 | :---- | :---- |
 | Nombre | *FloraPulse – Sensor de potencial hídrico del tallo*  |
 | Descripción general. | Sistema de monitoreo agrícola que utiliza un microtensiómetro insertado en el tallo para medir directamente el potencial hídrico (SWP) de árboles y vides. Permite registrar continuamente el estado hídrico de la planta y transmitir los datos a una plataforma digital para su análisis.  |
 | Aporte | Sirve como referente para desarrollar un sistema de riego inteligente basado en el estado fisiológico de la planta. Permite detectar estrés hídrico y utilizar esta información como criterio para optimizar la frecuencia y cantidad de riego, integrando sensado, procesamiento de datos y automatización.  |
 | Variables/ rango/  | **Variable:** potencial hídrico del tallo (SWP).  **Rango:** 0 a −35 bar (0 a −3,5 MPa).  **Resolución:** 0,1 bar.  **Precisión:** ±5 %.  **Medición:** cada 20 min.  **Temperatura:** 5–50 °C.  |
 | Detalles técnicos | Microtensiómetro con membrana de silicio nanoporoso, instalación directa en el tejido vegetal, alimentación mediante panel solar y batería de litio y transmisión inalámbrica de datos mediante conexión celular.  |
-| Imagen referencial del producto | ![][image4] ***Figura 2**. Microtensiómetro FloraPulse instalado en el tronco para monitoreo continuo del potencial hídrico. **Fuente:** FloraPulse (2026). [(11)](https://www.zotero.org/google-docs/?nctISj)* |
+| Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/floraSense1.png" alt="Patente 2" width="320"></div><br>  ***Figura 2**. Microtensiómetro FloraPulse instalado en el tronco para monitoreo continuo del potencial hídrico. **Fuente:** FloraPulse (2026). [(11)](https://www.zotero.org/google-docs/?nctISj)* |
 | Referencia bibliografica | FloraPulse. How FloraPulse works: microtensiometer technology explained \[Internet\]. FloraPulse; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sensores de riego de origen vegetal para huertos y viñedos \- FloraPulse](https://florapulse.com/)  |
 
 |  | Producto 3 CropX |
@@ -128,12 +162,12 @@ SÁNCHEZ MORÓN ANGELI DARIANA
 | Aporte | Permite establecer un sistema de monitoreo de las condiciones del suelo que puede utilizarse como entrada para la gestión automatizada del riego. Los datos de humedad en la zona radicular permiten determinar cuándo el suelo requiere reposición de agua, mientras que la temperatura y conductividad eléctrica aportan información complementaria sobre las condiciones del cultivo. Esto sirve como referencia para integrar sensores, telemetría y toma de decisiones basada en datos.  |
 | Variables/ Rangos/ valores | **Humedad (VWC):** 0–60 %, precisión ±0,5 %.  **Temperatura:** −10 a 70 °C, precisión hasta ±0,5 °C.  **Conductividad eléctrica (EC):** 0–5 dS/m.  **Profundidad:** mediciones configurables en diferentes niveles del perfil del suelo.  |
 | Detalles técnicos | Sensor de suelo con diseño espiral patentado, sensores integrados para humedad, temperatura y EC, autocalibración, batería extraíble y recargable, antena desmontable y telemetría integrada. El diseño permite realizar mediciones a diferentes profundidades y transmitir los datos a la plataforma CropX.  |
-| Imagen referencial del producto | ![][image5] **Figura 3\.** Sensor de suelo CropX Vertex para monitoreo de las condiciones de la zona radicular. **Fuente:** CropX Technologies (2026). [(12)](https://www.zotero.org/google-docs/?3pg4q1) |
+| Imagen referencial del producto | <div align="center"><img src="../../Recursos/Imagenes/cropx2.png" alt="Patente 2" width="350"><br></div>  **Figura 3\.** Sensor de suelo CropX Vertex para monitoreo de las condiciones de la zona radicular. **Fuente:** CropX Technologies (2026). [(12)](https://www.zotero.org/google-docs/?3pg4q1) |
 | Número de  Referencia. | CropX Technologies. CropX Hardware: soil sensor and telemetry \[Internet\]. CropX; 2026 \[citado 2026 Sep 3\]. Disponible en: [Sistema de Gestión Agronómica de Granjas CropX](https://cropx.com/)  |
 
  
 
-**REFERENCIAS BIBLIOGRÁFICAS:** 
+## **REFERENCIAS BIBLIOGRÁFICAS:** 
 
 [1\.](https://www.zotero.org/google-docs/?nUIc5F)	[Puig F, Garcia-Vila M, Soriano MA, Rodríguez-Díaz JA. AquaCrop-IoT: A smart irrigation platform integrating real-time images and weather forecasting. Comput Electron Agric. 1 de agosto de 2025;235:110372. doi:10.1016/j.compag.2025.110372](https://www.zotero.org/google-docs/?nUIc5F) 
 
