@@ -15,9 +15,9 @@ Facultad de Ciencias e Ingeniería
 <br><br>
 FUNDAMENTOS DE DISEÑO
 
-TALLER 03
+TALLER 04
 <br><br>
-REFERENCIAS BIBLIOGRÁFICAS
+REVISION DE PATENTES 
 
 <br>
 
