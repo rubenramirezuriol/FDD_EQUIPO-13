@@ -8,7 +8,7 @@ Facultad de Ciencias e Ingeniería
 
 <br>
 
-<img src="../../../Recursos/Imagenes/logo-upch.jpg"
+<img src="../../Recursos/Imagenes/logo-upch.jpg"
      alt="Logo UPCH"
      width="150">
 
@@ -156,7 +156,7 @@ En consecuencia, el problema técnico de HydroAdapt no se limita a la medición 
 |  | E | PLAZOS: El proyecto deberá completar dentro de los plazos establecidos por la asignatura las etapas de diseño, selección de principios tecnológicos, adquisición de materiales, fabricación, programación, integración, calibración y pruebas. El prototipo deberá encontrarse operativo antes de la sustentación correspondiente y deberá ser capaz de demostrar el ciclo completo de adquisición → procesamiento → decisión → actuación → retroalimentación.  | Y.A |
 
 **4\. Caja Negra**
-<div align="center"><img src="../../../Recursos/Imagenes/cajanegra.png" alt="Cajanegra" width="240"></div><br><em>
+<div align="center"><img src="../../Recursos/Imagenes/cajanegra.png" alt="Patente 2" width="240"></div><br><em>
 
 # **5\. Identificación preliminar de funciones principales**
 
