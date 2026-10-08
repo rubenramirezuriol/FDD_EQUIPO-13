@@ -12,9 +12,9 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## Objetivos de Desarrollo Sostenible
 
-- <img width="1408" height="768" alt="ods6" src="/Recursos/Imagenes/od6.png" />**ODS 6 — Agua limpia y saneamiento:** eje principal, asociado al uso eficiente del agua.
-- <img width="1408" height="768" alt="ods12" src="/Recursos/Imagenes/od12.png" />**ODS 12 — Producción y consumo responsables:** uso responsable de recursos y selección de componentes.
-- <img width="1408" height="768" alt="ods13" src="/Recursos/Imagenes/ods13.png" />**ODS 13 — Acción por el clima:** consideración de las condiciones ambientales en las decisiones de riego.
+- <img  width="100" alt="ods6" src="/Recursos/Imagenes/od6.png" />**ODS 6 — Agua limpia y saneamiento:** eje principal, asociado al uso eficiente del agua.
+- <img  width="100" alt="ods12" src="/Recursos/Imagenes/od12.png" />**ODS 12 — Producción y consumo responsables:** uso responsable de recursos y selección de componentes.
+- <img  width="100" alt="ods13" src="/Recursos/Imagenes/ods13.png" />**ODS 13 — Acción por el clima:** consideración de las condiciones ambientales en las decisiones de riego.
 
 
 ---
@@ -82,8 +82,8 @@ La entrega 2 vincula la lista de exigencias, la caja negra, las secuencias de op
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imagenes/foto_ruben.png" width="90"/> | Ruben Moises Enmanuel Ramirez Uriol | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imagenes/foto_aldair.png" width="90"/> | Aldair Alexander Chavez Aliaga | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imagenes/foto_angely.png" width="90"/> | Angeli Dariana Sanchez Moron | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imagenes/foto_wil.png" width="90"/> | Will Alex Puma Cutipa | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imagenes/foto_angely.jpeg" width="90"/> | Angeli Dariana Sanchez Moron | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imagenes/foto_will.png" width="90"/> | Will Alex Puma Cutipa | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imagenes/foto_yessi.png" width="90"/> | Yessica Alvarez Hanampa | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
